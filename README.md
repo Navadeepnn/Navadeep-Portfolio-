@@ -3,7 +3,7 @@
 A responsive personal portfolio website showcasing my skills, education, projects, and contact information.
 
 ## 🔗 Live Demo
-[View Portfolio](https://shakeelp07.github.io/portfolio/) 
+[View Portfolio](https://Navadeepnn.github.io/portfolio/) 
 
 ## 🚀 Features
 - Responsive design (works on mobile, tablet, and desktop)
